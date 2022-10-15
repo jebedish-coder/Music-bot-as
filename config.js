@@ -1,9 +1,9 @@
 module.exports = {
     app: {
-        token: 'MTAzMDY4MjIwMTAzNTExMjUyOA.G097Xa.b7MRqBnBX-IUGgarMVvP6SBO0fx5sSDIqTlxmE',
+        token: 'x',
         playing: 'by Zerio ❤️',
         global: true,
-        guild: '763018726257066015'
+        guild: 'x'
     },
 
     opt: {
