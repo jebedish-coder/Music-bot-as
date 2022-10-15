@@ -1,0 +1,2 @@
+discord.pu
+python-dotenv
